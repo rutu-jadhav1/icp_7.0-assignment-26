@@ -27,8 +27,8 @@ We welcome contributions from the community to help us expand and improve this h
 ---
 ## Contributors
 
-<a href="https://github.com/rutu-jadhav1/icp_7.0-assignment-25/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rutu-jadhav1/icp_7.0-assignment-25" />
+<a href="https://github.com/rutu-jadhav1/icp_7.0-assignment-26/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rutu-jadhav1/icp_7.0-assignment-26" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
